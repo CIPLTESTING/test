@@ -1,0 +1,89 @@
+5:12 PM Connecting...
+5:12 PM Connected. A support representative will be with you shortly.
+5:14 PM Support session established with Shalu Yadav.
+5:14 PM You have granted full permission to Shalu Yadav. To revoke, click the red X on the toolbar or press Pause/Break on the keyboard.
+5:14 PM Remote Control started by Shalu Yadav.
+
+5:23 PM Customer: It's working with Edge and IE but not firefox and chrome
+5:23 PM Shalu Yadav: Yes, as it is taking Cyberoam certificate 
+5:23 PM Shalu Yadav: But chrome and firefox is not taking cyberoam certificate 
+5:23 PM Shalu Yadav: So need to check with browser 
+5:23 PM Customer: yup
+5:23 PM Shalu Yadav: From cyberoam it is getting blocked.
+5:24 PM Shalu Yadav: Kindly check with the browser once.
+5:24 PM Shalu Yadav: As it is not taking cyberoam certificate 
+5:24 PM Shalu Yadav: Kindly check and if any assistance required please get back to us.
+5:25 PM Customer: Please wait 2 min
+5:25 PM Customer: I am checking
+5:25 PM Shalu Yadav: Okay 
+5:26 PM Customer: Despite of adding CR SSL, why it's taking google SSL?
+5:26 PM Customer: as it's working in Edge and IE
+5:27 PM Customer: is it related to version issue?
+5:27 PM Shalu Yadav: That is browser level issue 
+5:27 PM Shalu Yadav: Please check it at the broswer level as cyberoam is blocking it 
+5:28 PM Customer: Let me check with it
+5:28 PM Shalu Yadav: Sure
+5:28 PM Shalu Yadav: For now I will archive the case from my end 
+5:28 PM Customer: No
+5:28 PM Shalu Yadav: Are you checking it now ?
+5:28 PM Customer: Yes
+5:29 PM Shalu Yadav: ok 
+5:29 PM Customer: 5 min
+5:29 PM Shalu Yadav: ok 
+5:30 PM Customer: explaining another issue
+5:30 PM Customer: its related to web categories
+5:32 PM Customer: can see the logs which shows "PhotoGalleries"
+5:32 PM Shalu Yadav: ok 
+5:32 PM Customer: this category is not assigned to profile
+5:32 PM Shalu Yadav: Is it blocked ?
+5:32 PM Customer: and they have default deny policy
+5:32 PM Customer: No its opening, which should not be
+5:33 PM Shalu Yadav: Need to block it 
+5:33 PM Customer: It should be blocked by default instead of specifiing it
+5:33 PM Customer: as template is default deny
+5:34 PM Shalu Yadav: We recommend to use Allow All template rather then using Deny all template.
+5:34 PM Shalu Yadav: With Allow All it works fine.
+5:35 PM Shalu Yadav: In that you can deny wheatever you want to block 
+5:35 PM Customer: Yes that i know but then whats the purpose of having default deny policy
+5:35 PM Customer: and in allow all template i have to choose all and define allow or deny
+5:35 PM Customer: which is very painfull process
+5:36 PM Customer: i wanted to allow only sepecific categories which they needs to and deny rest all
+
+5:51 PM Remote Control by Shalu Yadav stopped.
+5:51 PM Remote Control started by Shalu Yadav.
+
+5:52 PM Shalu Yadav: Now it is working 
+5:52 PM Shalu Yadav: Randomly it was not taking certificate 
+5:52 PM Shalu Yadav: So we dropped the QUIC services 
+5:52 PM Customer: does it means randomly it will works?
+5:52 PM Shalu Yadav: Now it wil work 
+5:52 PM Shalu Yadav: No, now it work fine.
+5:53 PM Customer: let me check few others as well
+5:53 PM Shalu Yadav: But hte certificate should be imported 
+5:53 PM Shalu Yadav: the
+5:53 PM Shalu Yadav: Sure 
+5:53 PM Customer: yes it will be on all pc
+5:53 PM Shalu Yadav: Okay.
+5:57 PM Customer: this is not working
+5:58 PM Customer: for testing i removed "Search engine" category
+5:58 PM Customer: but its opening google.com
+5:58 PM Customer: You can see i removed search engine category
+5:59 PM Shalu Yadav: Do yo uwan to allow search engine or block it ?
+6:00 PM Customer: I am just doing the testing, for default deny
+6:00 PM Customer: So for trial i removed search engine category for this profile
+6:00 PM Customer: but its allowing to access it
+6:01 PM Shalu Yadav: you willnot be able to search anything as you have removed search engine
+6:02 PM Customer: is this like that way?
+6:02 PM Customer: i though google.co.in page itself didn't opened
+6:03 PM Customer: any way let me do more testing and come back if any issues
+6:03 PM Shalu Yadav: Sure 
+6:03 PM Shalu Yadav: Fo rnow can I archive the case ?
+6:03 PM Customer: thanks for your help today
+6:03 PM Customer: sure
+6:03 PM Shalu Yadav: Welcome kalpesh 
+6:03 PM Shalu Yadav: Thanks for your patience and cooperation 
+6:03 PM Shalu Yadav: Have a great time ahead !
+6:04 PM Shalu Yadav: Bye for now 
+6:04 PM Customer: Could you please send chat to my id?
+6:04 PM Customer: Have a nice day ahead!!
+6:04 PM Shalu Yadav: I can not send chat, I can email with the description of the issue and what resolved the issue
